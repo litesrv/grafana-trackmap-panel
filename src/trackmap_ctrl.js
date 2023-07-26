@@ -48,7 +48,7 @@ export class TrackMapCtrl extends MetricsPanelCtrl {
 
     // Save layers globally in order to use them in options
     this.layers = {
-      'OpenStreetMap': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      'OpenStreetMap': L.tileLayer('https://i.zencode.cc/512/https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         maxZoom: 19
       }),
