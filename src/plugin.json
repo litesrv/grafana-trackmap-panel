@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "TrackMap",
-  "id": "litesrv-trackmap-panel",
+  "id": "liujin1529-trackmap-panel",
   "info": {
     "description": "A plugin for Grafana that visualizes GPS points as a line on an interactive map.",
     "author": {
